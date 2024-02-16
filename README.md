@@ -1,13 +1,13 @@
-> "The more you know, the more you realize you know nothing."
-> - *socrates*
+> "The more I know, the more I realize I know nothing."
+> - *Socrates*
 
 # Title: JavaScript Algorithms and Data Structures
 ### Website: https://www.freecodecamp.org/
 
-[Visit Course](https://www.freecodecamp.org/learn/)
+[Visit Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 
 ## Total 9 Projects
 
-| Days | Completed or Not(Max 1Hr) | Date | Last Module | Steps |
-| -----| ---------| ---------| -------| -----|
-| 1 | ✔️ | 29-Dec-23| Introducing Else Statements | 45 |
+| Days | Completed or Not(Max 1Hr) | Date | Current Module | Last Step |
+| -----| ---------| ---------| -------| ----|
+| 1 | ✔️ | 16-Feb-24 | Learn Recursion by Building a Decimal to Binary Converter | 35 | 
